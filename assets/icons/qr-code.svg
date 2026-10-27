@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" fill="none">
+  <title>QR code icon</title>
+  <g stroke="#216DA5" stroke-width="9" stroke-linejoin="round">
+    <rect x="9" y="9" width="55" height="55" rx="4"/>
+    <rect x="85" y="9" width="55" height="55" rx="4"/>
+    <rect x="9" y="85" width="55" height="55" rx="4"/>
+  </g>
+  <g fill="#216DA5">
+    <rect x="24" y="24" width="25" height="25" rx="0.8"/>
+    <rect x="100" y="24" width="25" height="25" rx="0.8"/>
+    <rect x="24" y="100" width="25" height="25" rx="0.8"/>
+    <rect x="80" y="80" width="20" height="20" rx="1"/>
+    <rect x="130" y="80" width="15" height="15" rx="1"/>
+    <rect x="100" y="100" width="25" height="25" rx="1"/>
+    <rect x="80" y="130" width="15" height="15" rx="1"/>
+    <rect x="125" y="125" width="20" height="20" rx="1"/>
+  </g>
+</svg>

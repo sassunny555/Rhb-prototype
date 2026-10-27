@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <title>Receive</title>
+  <g stroke="#006EAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="53" cy="54" r="22" fill="#DDF2FC" stroke="none"/><g stroke-width="3.6"><rect x="6" y="6" width="23" height="23" rx="1.5"/><rect x="6" y="37" width="23" height="23" rx="1.5"/></g><g fill="#006EAA" stroke="none"><path d="M12 12h11v11H12zM12 43h11v11H12zM37 37h7v7h-7zM55 37h7v7h-7zM44 44h11v11H44zM37 55h7v7h-7zM55 55h7v7h-7z"/></g><path stroke-width="3.6" d="M51 8v20m-8-8 8 8 8-8"/></g>
+</svg>

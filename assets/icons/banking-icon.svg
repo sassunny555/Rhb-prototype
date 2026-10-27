@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="218" viewBox="0 0 222 218" fill="none">
+  <title>Banking icon</title>
+  <g stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="53" y="44" width="55" height="55" rx="10"/>
+    <rect x="53" y="121" width="55" height="55" rx="10"/>
+    <rect x="130" y="142" width="54" height="34" rx="10"/>
+    <path d="M176 68c-2-10-10-16-20-16-11 0-19 7-19 17 0 9 8 13 19 15 12 3 20 7 20 16 0 10-9 17-20 17-10 0-18-7-20-17M156 44v8m0 65v7"/>
+  </g>
+</svg>
