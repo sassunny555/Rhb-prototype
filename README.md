@@ -46,3 +46,7 @@ Physical camera and OCR recognition quality must be checked on the intended devi
 Completed simulated payments are stored in local preferences, sorted newest first and grouped by MYT date. Status close/system back opens Transactions. Tapping a row reopens the saved receipt with its original timestamp/reference without recording another payment. Home → Accounts also opens Transactions. All/Receipts currently contain the same completed QR payments because these are the only recorded transaction type. Six default sample history rows from the supplied reference are appended below completed payments. Swipe any row left to delete it. Completed payment removals and hidden sample row IDs are saved locally so deletions survive refresh. They are display fixtures and do not create stored receipts. Clearing browser/app storage removes this history.
 
 Each completed payment now has a derived green + MYR entry immediately above its red debit, for demonstrating incoming/outgoing activity. The derived receipt swaps sender and recipient and uses a -REV reference suffix. Default samples are not duplicated. Swiping away a credit hides only that derived entry; deleting its original debit removes the pair. These display examples do not adjust the account balance.
+
+## GitHub Pages
+
+The Pages workflow builds Flutter web and uploads `build/web`, with the repository base path set automatically. In repository Settings → Pages, the publishing source must be **GitHub Actions**, rather than serving the source branch with Jekyll. Pushes to `main` redeploy the app.
